@@ -32,7 +32,7 @@ function App() {
             Red particles repel red, blue repel blue, but red and blue attract each other
           </p>
           <a
-            href="https://github.com"
+            href="https://github.com/gameb30232/redandblue"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-white hover:text-gray-300 transition-colors"
